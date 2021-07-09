@@ -1,0 +1,64 @@
+th{
+    font-weight: 800;
+    font-size: 30px;
+    background-color: black;
+    color: #ffffff;
+}
+
+td{
+    font-size: 20px;
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    border-collapse: collapse;
+    border-width: thick;
+    border-style: solid;
+    border-color: black;
+}
+
+h2{
+    font-family: impact,fantasy;
+    text-align: left;
+    font-size: 45px;
+    font-style: italic;
+    color: black;
+}
+
+p{
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-style: normal;
+    font-size: 20px;
+}
+
+h1{
+    font-family: impact,fantasy;
+    text-align: center;
+    font-size: 70px;
+    font-style: oblique;
+    color: black;
+}
+
+label{
+    font-family: serif;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#menu a{
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    background-color: azure;
+    color: #ffffff;
+}
+
